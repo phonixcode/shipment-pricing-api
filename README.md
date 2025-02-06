@@ -18,7 +18,7 @@ Ensure you have the following installed:
 
 1. **Clone the repository**
    ```sh
-   git clone 
+   git clone https://github.com/phonixcode/shipment-pricing-api.git
    cd shipment-pricing-api
    ```
 
@@ -54,7 +54,7 @@ Ensure you have the following installed:
 
 1. **Clone the repository**
    ```sh
-   git clone 
+   git clone https://github.com/phonixcode/shipment-pricing-api.git
    cd shipment-pricing-api
    ```
 
